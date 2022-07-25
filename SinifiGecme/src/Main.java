@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-
 public class Main {
     public static void main(String[] args) {
-
         int fizik,kimya,turkce,tarih,muzik;
 
         Scanner sonuc=new Scanner(System.in);
@@ -22,15 +20,27 @@ public class Main {
         System.out.print("Lütfen Müzik Notunuzu Giriniz.");
         muzik=sonuc.nextInt();
 
-        double ortalama = (fizik+kimya+turkce+tarih+muzik)/5d;
-        boolean ort = ortalama >= 60;
-        String sonSonuc = ort ?"Geçtin Tebrikler!!" : "Kaldın!!!";
+        if (0>fizik || fizik>100){
+            fizik=0;
+        }
+        if (0>kimya || kimya>100){
+            kimya=0;
+        }
+        if (0>turkce || turkce>100){
+            turkce=0;
+        }
+        if (0>tarih || tarih>100){
+            tarih=0;
+        }
+        if (0>muzik || muzik>100){
+            muzik=0;
+        }
+        double ortalama = (fizik+kimya+turkce+tarih+muzik)/5;
 
-        System.out.println("Ortalaman " + ortalama);
-        System.out.println(sonSonuc);
-
-
-
-
+        if (ortalama>=55){
+            System.out.println("Sınıfı geçtin TEBRİKLER!!\nOrtalaman-> " +ortalama );
+        }else {
+            System.out.println("Sınıfı geçemedin..\nOrtalaman->"+ortalama);
+        }
     }
 }
