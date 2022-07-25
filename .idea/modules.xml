@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" filepath="$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/NotOrtalamaHesaplama.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/NotOrtalamaHesaplama.iml" />
