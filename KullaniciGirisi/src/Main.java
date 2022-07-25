@@ -26,10 +26,8 @@ public class Main {
                     newPassword=src.nextLine();
                     if (newPassword.equals("aec123")){
                         System.out.println("Eski Şifreniz ile aynı lüften farklı bir şifre giriniz..->");
-                        newPassword=src.nextLine();
                     }else {
                         System.out.println("Yeni şifresiniz oluşturuldu..");
-                        password=newPassword;
                     }
 
                 }
