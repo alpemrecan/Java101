@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/NotOrtalamaHesaplama.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/NotOrtalamaHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksiHesaplama/VucutKitleIndeksiHesaplama.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksiHesaplama/VucutKitleIndeksiHesaplama.iml" />
     </modules>
   </component>
 </project>
