@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05ae82a0-a9c2-40b7-a86c-745205afc5a7" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/UcakBiletFiyatHesaplama/UcakBiletFiyatHesaplama.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UcakBiletFiyatHesaplama/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CinZodyagiHesaplama/CinZodyagiHesaplama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CinZodyagiHesaplama/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="UcakBiletFiyatHesaplama" />
@@ -55,9 +55,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SinifiGecme" />
+      <module name="CinZodyagiHesaplama" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +112,8 @@
       <workItem from="1658486942940" duration="1271000" />
       <workItem from="1658490024864" duration="3601000" />
       <workItem from="1658731886251" duration="10689000" />
-      <workItem from="1658817896439" duration="8629000" />
+      <workItem from="1658817896439" duration="10737000" />
+      <workItem from="1658832282376" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1658476535716</created>
